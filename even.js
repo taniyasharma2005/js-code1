@@ -1,8 +1,8 @@
 let a=20;
 if(a%2==0){
-    console.log("even");
+    console.log(true);
 }
 else{
-    console.log("odd");
+    console.log(false);
 }
 //output even
